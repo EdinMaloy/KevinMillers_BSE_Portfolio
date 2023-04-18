@@ -1,4 +1,9 @@
-﻿# A Coded Car Robot Named Roombat
+﻿theme: hacker
+
+Fork your own copy of pages-themes/hacker
+Code
+
+# A Coded Car Robot Named Roombat
 I am working on a simple coded Car robot. I gave the him name Roombat because he looks like a bat shaped roomba. Roombat also has he/him pronouns apparently. This is the end of the description now.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
