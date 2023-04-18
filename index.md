@@ -1,26 +1,25 @@
-﻿# Project Name/Title Goes Here
-I am working on a raspberry pi machine learning model
+﻿# A Coded Car Robot Named Roombat
+I am working on a simple coded Car robot. I gave the him name Roombat because he looks like a bat shaped roomba. Roombat also has he/him pronouns apparently. This is the end of the description now.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Kevin Miller | RIT | Electrical Engineering | Graduated 
+| Edin | East High | Electrical Engineering | 9th Grade
 
-![Relevant Name](https://cdn-shop.adafruit.com/970x728/4296-11.jpg)
-  
+![Relevant Name]  
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+Yes I havent reached this milestone either.
 
-[![Raspberry Pi Camera](https://res.cloudinary.com/marcomontalbano/image/upload/v1622153797/video_to_markdown/images/youtube--zfBHD4v8hD0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=zfBHD4v8hD0 "Raspberry Pi Camera"){:target="_blank" rel="noopener"}
+[![Raspberry Pi Camera] {:target="_blank" rel="noopener"}
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+[![Final Milestone] {:target="_blank" rel="noopener"}
 
 # Second Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
+I have not reached this milestone yet. 
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+[![Third Milestone] {:target="_blank" rel="noopener"}
 # First Milestone
   
 
-My first milestone was setting up and hooking up the Raspberry Pi and all the necessary components onto my tv. The heatsinks, the sd card, and the controller were all added to ensure that the Raspberry Pi was working. Instead of the Raspberry Pi Os software, I had to first download a different software called Retro Pie. With Retro Pie, I needed to download an Imager for Raspberry Pi. Raspberry Pi Imager automatically downloads a list of the latest versions of Raspbian supported by the Raspberry Pi. Raspbian is the typical Raspberry Pi Os software, the one I needed on the Raspberry Pi was Retro Pi. With the included SD card, I plugged in the SD into my computer and launched the Imager. The imager allowed me to set the Operating System to Retro Pi instead of Raspbian onto the SD card. With the OS imaged onto the SD, I plugged the SD card back into the Raspberry Pi and rebooted the system and Retro Bi booted up.
+My first milestone was to actually build the freaking robot. I started with building the body, which was a whole process that took multiple days. It wasnt hard I just kept repeating mistakes. I finally got to wiring which also was a whole process, The wires were very small but fun to work with nevertheless. When I finally got to coding and this was the easiest part due to me using an arduino which is designed to make coding easy and the code i had to use was already on the computer ready to up load. My robot works and is able to move forward backward and spin around in that order.
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+[![First Milestone]{:target="_blank" rel="noopener"}
