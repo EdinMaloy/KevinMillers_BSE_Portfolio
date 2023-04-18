@@ -3,11 +3,11 @@ I am working on a simple coded Car robot. I gave the him name Roombat because he
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Edin | East High | Electrical Engineering | 9th Grade
+| Edin | East High | Building and wiring | 9th Grade
 
 ![Relevant Name]  
 # Final Milestone
-Yes I havent reached this milestone either.
+I havent reached this milestone either.
 
 [![Raspberry Pi Camera] {:target="_blank" rel="noopener"}
 
